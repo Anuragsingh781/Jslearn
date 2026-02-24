@@ -86,12 +86,12 @@
 // // instead of these thing practise using parenthesis () which is a good practise
 
 
-console.log(+true); // 1 :Here + act as unary plus operator i.e convert value to number it is basically Number(value)
-console.log(+false);      // 0
-console.log(+null);       // 0
-console.log(+"123");      // 123
-console.log(+"abc");      // NaN
-console.log(+undefined);  // NaN
+// console.log(+true); // 1 :Here + act as unary plus operator i.e convert value to number it is basically Number(value)
+// console.log(+false);      // 0
+// console.log(+null);       // 0
+// console.log(+"123");      // 123
+// console.log(+"abc");      // NaN
+// console.log(+undefined);  // NaN
 
 
 let num1 , num2 ,num3
