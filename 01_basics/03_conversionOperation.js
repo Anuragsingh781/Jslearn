@@ -94,11 +94,11 @@
 // console.log(+undefined);  // NaN
 
 
-let num1 , num2 ,num3
-num1 = num2 = num3 = 4 // not a good practise again try using 
-// let num1 = 4;
-// let num2 = 4;
-// let num3 = 4;
+// let num1 , num2 ,num3
+// num1 = num2 = num3 = 4 // not a good practise again try using 
+// // let num1 = 4;
+// // let num2 = 4;
+// // let num3 = 4;
 
 let gameCounter = 100
 gameCounter++; // postfix operator : Use the value and then increase it
